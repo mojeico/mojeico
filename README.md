@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mojeico
-- 👀 I’m interested in data science, machine learning, deep learning and data engineering
-- 🌱 I’m currently learning Math and DS
+- 👀 I’m interested in java and Golang 
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me - g.mojeico@gmail.com or @gleb.mojeico
 
