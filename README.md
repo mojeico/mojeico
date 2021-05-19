@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mojeico
-- 👀 I’m interested in java and Golang 
+- 👀 I’m interested in Java and Golang 
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me - g.mojeico@gmail.com or @gleb.mojeico
 
