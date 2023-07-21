@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mojeico
-- 👀 I’m interested in Golang and DevOps 
+- Ex Java and Golang developer
+- 👀 I’m interested in DevOps 
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me - g.mojeico@gmail.com or @gleb.mojeico
 
